@@ -1,0 +1,45 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: cornflowerblue;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#inputbox {
+    width: 100%;
+    padding-left: 10px;
+}
+
+#naslov {
+    text-align: center;
+    padding-bottom: 60px;
+    color: cornflowerblue;
+}
+
+.connected {
+    color: darkred;
+    font-style: italic;
+}
+
+.disconnected {
+    color: darkred;
+    font-style: italic;
+}
+
+.jumbotron {
+    height: 80vh;
+}
+
+#chat {
+    width: 80%;
+    float: left;
+}
+
+#users {
+    width: 20%;
+    float: left;
+}
